@@ -1,0 +1,262 @@
+﻿Company,TypeName,Ram,Weight,OpSys,Actual_Price,Predicted_Price,Error
+Toshiba,Notebook,8,1.05,Windows 10,1672.0,1011.62,-660.38
+HP,Notebook,8,1.11,Windows 10,1149.0,921.12,-227.88
+Lenovo,Notebook,6,2.4,Windows 10,499.0,830.94,331.94
+Lenovo,Notebook,8,2.6,Windows 10,899.0,999.04,100.04
+HP,Ultrabook,4,1.26,Windows 10,1244.0,1115.22,-128.78
+HP,2 in 1 Convertible,8,1.26,Windows 10,1398.99,1364.15,-34.84
+HP,Notebook,4,1.49,Windows 10,719.0,642.39,-76.61
+Lenovo,Notebook,8,2.2,No OS,459.0,661.74,202.74
+HP,Gaming,8,3.35,Windows 10,1191.0,1380.2,189.2
+HP,Notebook,4,2.1,Windows 10,349.0,687.32,338.32
+Lenovo,2 in 1 Convertible,16,2.0,Windows 10,1899.0,2000.27,101.27
+Dell,Notebook,8,1.98,Linux,726.0,760.77,34.77
+Dell,2 in 1 Convertible,8,1.24,Windows 10,1813.0,1286.87,-526.13
+Dell,Notebook,8,2.3,Linux,805.99,784.34,-21.65
+Asus,Gaming,16,2.9,Windows 10,1949.0,1777.56,-171.44
+Lenovo,2 in 1 Convertible,8,1.74,Windows 10,899.0,1367.67,468.67
+HP,Ultrabook,8,1.34,Windows 10,1145.0,1427.83,282.83
+Dell,Notebook,8,1.98,Windows 10,961.0,909.39,-51.61
+Dell,Notebook,12,2.3,Windows 10,713.07,1239.68,526.61
+Samsung,Ultrabook,16,0.81,Windows 10,1649.0,1965.45,316.45
+MSI,Gaming,16,4.5,Windows 10,2349.0,2059.18,-289.82
+Asus,Notebook,4,2.2,Windows 10,720.32,511.74,-208.58
+Dell,2 in 1 Convertible,8,1.62,Windows 10,798.01,1314.85,516.84
+Mediacom,Notebook,4,1.4,Windows 10,265.0,321.34,56.34
+Dell,Ultrabook,8,1.6,Windows 10,1149.0,1371.17,222.17
+Dell,2 in 1 Convertible,12,2.77,Windows 10,999.0,1706.28,707.28
+Dell,Notebook,4,1.93,Windows 10,959.0,598.98,-360.02
+Dell,Notebook,4,1.9,Windows 10,825.0,596.77,-228.23
+HP,2 in 1 Convertible,8,1.28,Windows 10,2277.0,1365.62,-911.38
+Dell,Notebook,8,1.9,Windows 10,1179.0,903.5,-275.5
+Dell,Notebook,6,2.3,Windows 10,459.0,779.6,320.6
+Toshiba,Ultrabook,8,1.47,Windows 10,1725.0,1532.33,-192.67
+HP,Ultrabook,8,1.16,Windows 10,1969.0,1414.58,-554.42
+Lenovo,2 in 1 Convertible,8,2.08,Windows 10,959.0,1392.72,433.72
+Toshiba,Notebook,8,2.0,Windows 10,943.0,1081.6,138.6
+Acer,Notebook,8,2.2,Windows 10,745.0,738.33,-6.67
+Lenovo,Notebook,8,2.2,No OS,659.01,661.74,2.73
+Lenovo,Notebook,4,2.2,Windows 10,399.0,662.85,263.85
+MSI,Gaming,8,2.4,Windows 10,1229.0,1291.06,62.06
+Acer,Notebook,2,1.68,Chrome OS,330.0,-0.25,-330.25
+Microsoft,Ultrabook,8,1.252,Windows 10 S,1867.85,1602.64,-265.21
+Lenovo,Notebook,8,2.2,No OS,519.0,661.74,142.74
+Asus,2 in 1 Convertible,8,2.2,Windows 10,739.0,1250.45,511.45
+Lenovo,Gaming,16,4.6,Windows 10,2289.99,2053.88,-236.11
+Dell,Notebook,4,2.18,Windows 10,547.0,617.4,70.4
+Dell,Notebook,8,1.9,Windows 10,1377.0,903.5,-473.5
+Asus,Ultrabook,16,1.8,Windows 10,1983.0,1892.22,-90.78
+HP,Notebook,2,1.44,Windows 10,279.0,485.34,206.34
+Dell,Notebook,8,2.18,Windows 10,795.0,924.12,129.12
+Dell,Ultrabook,8,1.29,Windows 10,1458.0,1348.34,-109.66
+Lenovo,Ultrabook,8,1.32,Windows 10,1499.0,1394.53,-104.47
+HP,Notebook,8,2.04,Windows 10,629.0,989.62,360.62
+Xiaomi,Notebook,8,1.95,No OS,1199.0,486.62,-712.38
+HP,Notebook,4,1.48,Windows 10,1099.99,641.65,-458.34
+Dell,Notebook,8,2.36,Windows 10,557.37,937.38,380.01
+Asus,Ultrabook,8,1.45,Windows 10,1026.0,1252.99,226.99
+HP,Notebook,2,1.44,Windows 10,249.0,485.34,236.34
+Dell,2 in 1 Convertible,8,1.62,Windows 10,819.0,1314.85,495.85
+Asus,Notebook,8,1.4,Windows 10,941.0,759.54,-181.46
+Lenovo,Notebook,8,2.6,Windows 10,899.0,999.04,100.04
+Dell,Notebook,8,2.06,Windows 10,1749.0,915.28,-833.72
+Acer,Notebook,8,2.2,Windows 10,841.0,738.33,-102.67
+Lenovo,Notebook,4,1.85,No OS,403.5,329.24,-74.26
+Acer,Notebook,4,2.2,Windows 10,682.0,431.61,-250.39
+HP,Notebook,4,1.86,No OS,299.0,361.8,62.8
+Asus,Gaming,16,2.73,Windows 10,2049.9,1765.04,-284.86
+HP,Notebook,6,2.1,Windows 10,529.0,840.68,311.68
+Lenovo,Notebook,12,2.2,Windows 10,949.0,1276.3,327.3
+Dell,2 in 1 Convertible,8,2.3,Windows 10,1094.0,1364.94,270.94
+Asus,Gaming,32,3.58,Windows 10,1279.0,3054.54,1775.54
+Asus,Gaming,32,3.8,Windows 10,2799.0,3070.74,271.74
+Toshiba,Notebook,8,2.2,Windows 10,1119.0,1096.33,-22.67
+Acer,Notebook,4,2.2,Windows 10,530.0,431.61,-98.39
+HP,Notebook,8,2.04,Windows 10,806.0,989.62,183.62
+Dell,Notebook,4,1.8,Windows 10,309.0,589.41,280.41
+Lenovo,Notebook,4,2.2,No OS,469.0,355.02,-113.98
+Asus,2 in 1 Convertible,6,1.5,Windows 10,639.01,1045.53,406.52
+Dell,Workstation,8,2.23,Windows 10,1993.0,1869.52,-123.48
+MSI,Gaming,8,2.6,Windows 10,1599.0,1305.79,-293.21
+Samsung,Ultrabook,8,0.81,Windows 10,1499.0,1352.0,-147.0
+HP,Gaming,8,2.75,Windows 10,1399.0,1336.01,-62.99
+HP,Notebook,4,1.29,Chrome OS,615.0,387.47,-227.53
+Acer,2 in 1 Convertible,4,1.25,Windows 10,349.0,793.62,444.62
+Dell,Notebook,8,2.18,Windows 10,713.99,924.12,210.13
+Asus,Notebook,4,1.5,Windows 10,278.0,460.18,182.18
+Dell,Gaming,16,3.21,Windows 10,2051.0,1907.52,-143.48
+HP,Notebook,4,2.71,Windows 10,439.0,732.25,293.25
+Asus,Gaming,16,3.6,Windows 10,2999.0,1829.12,-1169.88
+Lenovo,Gaming,8,2.4,No OS,989.0,970.56,-18.44
+Lenovo,Notebook,8,2.3,Windows 10,819.0,976.94,157.94
+Apple,Ultrabook,8,0.92,macOS,1510.0,1546.12,36.12
+Lenovo,Gaming,32,4.6,Windows 10,3240.0,3280.77,40.77
+Lenovo,Gaming,8,2.4,No OS,809.0,970.56,161.56
+HP,Notebook,4,1.49,Windows 10,726.0,642.39,-83.61
+Lenovo,Notebook,8,1.7,Windows 10,1474.0,932.75,-541.25
+Acer,Notebook,4,2.1,Windows 10,426.0,424.24,-1.76
+Dell,Notebook,8,1.6,Windows 10,859.0,881.4,22.4
+HP,Notebook,8,2.1,Windows 10,716.0,994.04,278.04
+Dell,Notebook,8,2.5,Windows 10,784.0,947.69,163.69
+HP,Notebook,8,1.64,Windows 10,1049.26,960.16,-89.1
+HP,Notebook,4,2.1,Windows 10,330.0,687.32,357.32
+Lenovo,Notebook,8,2.2,No OS,549.0,661.74,112.74
+Dell,Notebook,8,2.0,Windows 10,665.0,910.86,245.86
+HP,2 in 1 Convertible,8,1.48,Windows 10,2041.0,1380.36,-660.64
+Xiaomi,Ultrabook,8,1.3,No OS,999.9,928.52,-71.38
+Dell,Notebook,8,2.3,Linux,805.99,784.34,-21.65
+Asus,Gaming,8,2.2,Windows 10,1169.0,1112.55,-56.45
+Toshiba,Notebook,4,1.75,Windows 10,499.0,756.46,257.46
+Lenovo,Notebook,8,1.95,Windows 10,1097.0,951.16,-145.84
+Mediacom,2 in 1 Convertible,4,1.16,Windows 10,299.0,735.65,436.65
+Asus,2 in 1 Convertible,16,2.3,Windows 10,1799.0,1871.26,72.26
+HP,Notebook,8,2.31,Windows 10,1427.0,1009.51,-417.49
+Dell,Gaming,8,2.56,Windows 10,879.0,1246.2,367.2
+MSI,Gaming,16,4.14,Windows 10,2729.0,2032.67,-696.33
+Asus,Notebook,4,1.63,Windows 10,299.0,469.76,170.76
+MSI,Gaming,16,2.43,Windows 10,2449.0,1906.72,-542.28
+Lenovo,2 in 1 Convertible,8,1.3,Windows 10,1199.0,1335.27,136.27
+HP,Ultrabook,8,1.43,Windows 7,1449.0,1855.02,406.02
+Acer,Notebook,8,2.5,Linux,979.0,611.8,-367.2
+Dell,Notebook,8,2.02,Windows 10,759.0,912.33,153.33
+Razer,Gaming,32,3.49,Windows 10,6099.0,4057.98,-2041.02
+HP,Notebook,8,2.31,Windows 10,1124.0,1009.51,-114.49
+Dell,Notebook,8,2.2,Windows 10,797.41,925.59,128.18
+Asus,Notebook,8,2.0,Windows 10,1299.0,803.73,-495.27
+Lenovo,Notebook,8,2.6,Windows 10,789.0,999.04,210.04
+Asus,Notebook,4,2.8,Windows 10,466.0,555.93,89.93
+Dell,Ultrabook,8,1.6,Linux,1099.0,1222.55,123.55
+Dell,Notebook,12,2.25,Windows 10,649.0,1236.0,587.0
+HP,Gaming,16,3.35,Windows 10,1379.0,1993.65,614.65
+HP,Ultrabook,8,1.83,Windows 10,699.0,1463.92,764.92
+HP,Notebook,16,2.5,Windows 10,1271.0,1636.95,365.95
+Dell,Notebook,6,2.3,Windows 10,459.0,779.6,320.6
+Lenovo,Gaming,8,2.5,Windows 10,829.0,1285.76,456.76
+Dell,Ultrabook,8,1.2,Windows 10,1579.0,1341.71,-237.29
+Asus,Ultrabook,8,1.2,Windows 10,729.0,1234.58,505.58
+Dell,Notebook,4,2.25,Linux,465.62,473.93,8.31
+MSI,Gaming,16,2.94,Windows 10,2267.86,1944.28,-323.58
+Lenovo,Notebook,4,2.1,Windows 10,299.0,655.49,356.49
+Dell,Notebook,16,2.8,Windows 10,1396.0,1583.23,187.23
+HP,Notebook,8,2.04,Windows 10,389.0,989.62,600.62
+Dell,Notebook,4,2.18,Windows 10,558.6,617.4,58.8
+Asus,Gaming,8,3.0,Windows 10,1039.0,1171.48,132.48
+Dell,Gaming,8,2.62,Windows 10,1159.0,1250.62,91.62
+HP,Notebook,8,2.63,Windows 10,910.0,1033.08,123.08
+Dell,Notebook,8,1.9,Windows 10,1116.99,903.5,-213.49
+Apple,Ultrabook,8,1.37,macOS,1958.9,1579.26,-379.64
+Dell,2 in 1 Convertible,16,2.09,Windows 10,1179.0,1962.92,783.92
+Dell,Notebook,4,2.2,Windows 10,443.99,618.87,174.88
+Asus,Notebook,4,2.45,No OS,579.0,222.32,-356.68
+HP,Notebook,8,2.5,Windows 10,896.0,1023.5,127.5
+MSI,Gaming,16,1.6,Windows 10,1891.0,1845.58,-45.42
+Acer,Notebook,4,2.23,Windows 10,616.0,433.81,-182.19
+Asus,Notebook,2,1.65,Windows 10,199.0,317.87,118.87
+Asus,Gaming,16,2.99,Windows 10,1749.0,1784.19,35.19
+Dell,Notebook,8,1.93,Windows 10,1369.0,905.71,-463.29
+Dell,Notebook,16,1.93,Windows 10,1537.39,1519.15,-18.24
+Dell,Ultrabook,8,1.2,Windows 10,1449.0,1341.71,-107.29
+Microsoft,Ultrabook,4,1.252,Windows 10 S,1089.0,1295.92,206.92
+Acer,Gaming,8,2.5,Windows 10,846.0,1054.52,208.52
+Asus,2 in 1 Convertible,4,1.5,Windows 10,375.0,892.16,517.16
+Dell,Ultrabook,8,1.36,Windows 10,1639.0,1353.49,-285.51
+HP,Notebook,4,2.04,Windows 10,979.0,682.9,-296.1
+Lenovo,2 in 1 Convertible,4,1.8,Windows 10,847.0,1065.37,218.37
+HP,Workstation,8,3.0,Windows 7,2899.0,2422.61,-476.39
+Lenovo,Notebook,32,2.5,Windows 10,4899.0,2832.01,-2066.99
+MSI,Gaming,8,2.2,Windows 10,839.0,1276.33,437.33
+HP,Ultrabook,8,1.54,Windows 7,1870.0,1863.13,-6.87
+Dell,Notebook,4,2.3,Windows 10,639.0,626.23,-12.77
+HP,Notebook,4,1.63,Windows 10,722.0,652.7,-69.3
+HP,Notebook,6,1.91,Windows 10,619.0,826.68,207.68
+Mediacom,Notebook,4,1.2,Windows 10,369.0,306.61,-62.39
+Toshiba,Ultrabook,16,1.05,Windows 10,2226.0,2114.84,-111.16
+HP,Notebook,8,2.2,Windows 10,1099.0,1001.41,-97.59
+Lenovo,2 in 1 Convertible,8,1.38,Windows 10,1079.0,1341.16,262.16
+HP,Notebook,8,1.86,Windows 10,639.0,976.36,337.36
+Dell,Notebook,2,2.2,Windows 10,379.0,465.51,86.51
+Asus,Netbook,4,1.2,Chrome OS,287.9,320.35,32.45
+Lenovo,Notebook,4,2.4,Windows 10,609.0,677.58,68.58
+HP,Gaming,12,3.35,Windows 10,1999.0,1686.92,-312.08
+Asus,Ultrabook,8,1.3,Windows 10,1193.0,1241.95,48.95
+Lenovo,Notebook,8,2.2,Windows 10,589.0,969.57,380.57
+HP,Notebook,8,2.63,Windows 10,1080.0,1033.08,-46.92
+Dell,Notebook,4,2.25,Windows 10,559.0,622.55,63.55
+Dell,Gaming,8,2.56,Windows 10,819.0,1246.2,427.2
+Dell,Notebook,4,2.24,Windows 7,737.0,1042.38,305.38
+Lenovo,Notebook,8,2.2,No OS,629.0,661.74,32.74
+Dell,Notebook,8,2.2,Linux,749.01,776.97,27.96
+Lenovo,2 in 1 Convertible,8,2.0,Windows 10,1699.0,1386.83,-312.17
+Dell,Workstation,8,1.78,Windows 10,2712.0,1836.38,-875.62
+Dell,Notebook,8,2.2,Linux,677.35,776.97,99.62
+Lenovo,Notebook,8,1.65,Windows 10,1345.0,929.06,-415.94
+Acer,Notebook,4,2.4,Windows 10,387.0,446.34,59.34
+Lenovo,Notebook,16,2.5,Windows 10,1099.0,1605.12,506.12
+Acer,Notebook,8,3.0,Windows 10,854.0,797.25,-56.75
+Lenovo,Notebook,8,1.75,Windows 10,1049.0,936.43,-112.57
+HP,2 in 1 Convertible,8,1.4,Chrome OS,495.0,1134.27,639.27
+Lenovo,Notebook,2,1.15,Windows 10,304.45,432.15,127.7
+Lenovo,Notebook,4,1.7,Windows 10,599.0,626.02,27.02
+HP,Notebook,8,1.9,Windows 10,1154.0,979.31,-174.69
+MSI,Gaming,16,2.7,Windows 10,1492.8,1926.6,433.8
+HP,Notebook,8,2.5,Windows 10,923.0,1023.5,100.5
+Dell,Notebook,4,1.95,Windows 10,729.9,600.46,-129.44
+Fujitsu,Notebook,8,2.2,Windows 10,739.0,799.0,60.0
+Lenovo,2 in 1 Convertible,4,2.1,Windows 10,867.0,1087.47,220.47
+Dell,2 in 1 Convertible,8,2.67,Windows 10,799.0,1392.19,593.19
+Acer,Notebook,4,2.4,Windows 10,384.0,446.34,62.34
+Acer,Notebook,8,2.4,Linux,779.0,604.44,-174.56
+HP,2 in 1 Convertible,16,1.28,Windows 10,1975.0,1979.07,4.07
+HP,Notebook,4,1.88,Windows 7,932.0,1091.67,159.67
+HP,Notebook,4,1.91,Windows 10,439.0,673.32,234.32
+Lenovo,Notebook,6,2.2,Windows 10,597.57,816.21,218.64
+Lenovo,Gaming,16,2.5,Windows 10,1079.0,1899.21,820.21
+Lenovo,Notebook,8,1.58,Windows 10,1480.0,923.91,-556.09
+Acer,Notebook,4,3.0,Windows 10,702.0,490.53,-211.47
+Lenovo,Notebook,4,2.2,Windows 10,349.0,662.85,313.85
+HP,Notebook,8,1.84,Windows 10,1304.0,974.89,-329.11
+Dell,2 in 1 Convertible,8,1.68,Windows 10,889.0,1319.27,430.27
+Lenovo,Notebook,8,1.99,Windows 10,1729.0,954.11,-774.89
+Lenovo,Notebook,8,2.3,Windows 10,1349.0,976.94,-372.06
+Lenovo,Notebook,4,2.2,No OS,444.0,355.02,-88.98
+Asus,Gaming,24,4.33,Windows 10,1269.0,2496.33,1227.33
+Toshiba,Notebook,8,1.47,Windows 10,1490.0,1042.56,-447.44
+Asus,Ultrabook,8,1.1,Windows 10,1873.0,1227.21,-645.79
+Dell,Notebook,4,1.6,Windows 10,875.0,574.68,-300.32
+HP,2 in 1 Convertible,8,1.58,Windows 10,836.6,1387.72,551.12
+HP,Ultrabook,8,1.26,Windows 10,1349.0,1421.94,72.94
+Dell,Notebook,8,2.0,Windows 10,1142.75,910.86,-231.89
+Acer,Notebook,4,2.4,Windows 10,450.0,446.34,-3.66
+Lenovo,Notebook,8,1.7,Windows 10,1364.0,932.75,-431.25
+Acer,Notebook,6,2.1,Windows 10,409.0,577.6,168.6
+Asus,Notebook,16,2.2,Windows 10,1749.0,1431.91,-317.09
+HP,Ultrabook,8,1.54,Windows 10,1468.0,1442.56,-25.44
+Dell,Notebook,8,2.18,Windows 10,750.0,924.12,174.12
+HP,Ultrabook,8,1.84,Windows 10,1296.99,1464.66,167.67
+HP,Ultrabook,4,1.26,Windows 10,1579.0,1115.22,-463.78
+Dell,Notebook,8,1.62,Windows 10,649.0,882.87,233.87
+Fujitsu,Notebook,4,2.3,Windows 10,649.0,499.64,-149.36
+HP,Notebook,4,2.07,Windows 10,910.0,685.11,-224.89
+Dell,Notebook,16,1.93,Windows 10,1426.66,1519.15,92.49
+HP,2 in 1 Convertible,4,2.3,Windows 10,684.8,1134.03,449.23
+Huawei,Ultrabook,8,1.05,Windows 10,1349.0,1499.0,150.0
+MSI,Gaming,16,3.78,Windows 10,2499.0,2006.15,-492.85
+Acer,Gaming,16,4.2,Windows 10,1935.0,1793.17,-141.83
+Dell,Workstation,16,2.17,Windows 10,1975.0,2478.55,503.55
+HP,Notebook,8,1.48,Windows 10,1749.0,948.37,-800.63
+Dell,Notebook,4,2.25,Linux,359.0,473.93,114.93
+Lenovo,Notebook,8,2.2,Windows 10,597.0,969.57,372.57
+Lenovo,Notebook,4,1.9,No OS,339.0,332.92,-6.08
+Lenovo,Notebook,8,1.8,Windows 10,1191.0,940.11,-250.89
+Acer,Notebook,4,3.0,Windows 10,655.0,490.53,-164.47
+HP,Notebook,4,1.96,Windows 10,500.0,677.0,177.0
+Dell,Gaming,16,2.62,Windows 10,1679.0,1864.06,185.06
+Lenovo,Gaming,8,2.5,Windows 10,1189.0,1285.76,96.76
+Acer,Notebook,8,1.56,Windows 10,902.0,691.19,-210.81
+Acer,Notebook,4,2.4,Linux,289.0,297.72,8.72
+Dell,Notebook,16,2.06,Windows 10,2027.42,1528.73,-498.69
+Dell,2 in 1 Convertible,12,1.6,Windows 10,1299.0,1620.1,321.1
+HP,Notebook,8,2.5,Windows 10,1045.0,1023.5,-21.5
+Dell,Workstation,16,3.42,Windows 10,2884.86,2570.62,-314.24
+Lenovo,Ultrabook,8,1.7,Windows 10,1943.0,1422.52,-520.48
+Lenovo,Gaming,8,2.5,Windows 10,1249.0,1285.76,36.76
